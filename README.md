@@ -37,8 +37,6 @@ The 42 Moulinette, known as "The Grinder," is an automated grading tool used at 
 
 - **Norm Compliance:** The Moulinette verifies that your code follows Ecole 42 norm rules, akin to modern SOLID principles. These rules promote readability, maintainability, and efficiency. A single norm violation can result in a failing grade, underscoring the importance of clean coding practices.
 
-- **Memory Leak Detection:** During evaluation, the Moulinette checks for memory leaks and other issues that could impact program stability and performance. Ensuring your code is free of leaks is essential for creating reliable software.
-
 - **Comprehensive Feedback:** After running tests, the Moulinette provides detailed feedback on your submission. This includes information on detected errors or issues, along with suggestions for improvement. Such feedback is invaluable for learning and enhancing coding skills.
 
 - **Peer Reviews:** In addition to automated testing, the Moulinette integrates peer review processes. Peers offer insights, comments, and scores based on their evaluations, providing a well-rounded assessment of your work.
