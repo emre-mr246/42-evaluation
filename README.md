@@ -14,10 +14,7 @@
 </h4>
 </div>
 
-
-# 42-evaluation
-
-### **THE NORM**
+### **THE NORM 📖**
 
 The norm rules at Ecole 42 are a set of guidelines akin to the **SOLID principles** in software development. These rules enhance the **organization, readability, and maintainability** of projects, fostering disciplined coding practices and **professional-level software craftsmanship**.
 
@@ -26,7 +23,7 @@ Adherence to these norms is crucial; even a single violation can render a projec
 By adhering to the norm rules, students ensure their projects meet **academic standards** and prepare themselves for **real-world software development**, where clean, maintainable code is essential for **long-term success**.
 
 
-### **PEER TO PEER EVALUATION**
+### **PEER TO PEER EVALUATION 🧑‍🎓**
 
 When completing a project at Ecole 42, it must be approved by three of our peers who evaluate it independently at different times. During this process, they ask questions to ensure the authenticity of our work. Each function used in the project and its underlying workings are scrutinized individually.
 
@@ -37,7 +34,7 @@ The evaluation follows specific guidelines outlined on the evaluation page, invo
 At the conclusion of the evaluation, our peers provide feedback in the form of comments. These comments may cover our project's strengths, weaknesses, and recommendations for improvement. Additionally, they assign scores for each evaluated section.
 
 
-### MOULINETTE "THE GRINDER"
+### MOULINETTE "THE GRINDER 💢"
 
 The Moulinette is an automated grading tool used at Ecole 42 to evaluate student projects. This powerful tool ensures that all submissions meet the school's rigorous standards. Here's an overview of its key features and benefits:
 
@@ -50,7 +47,7 @@ The Moulinette is an automated grading tool used at Ecole 42 to evaluate student
 - **Peer Reviews:** In addition to automated testing, the Moulinette integrates peer review processes. Peers offer insights, comments, and scores based on their evaluations, providing a well-rounded assessment of your work.
 
 
-### **EXAM SYSTEM**
+### **EXAM SYSTEM 🖥️**
 
 Ecole 42 employs a rigorous exam system designed to ensure fairness and uphold high standards of assessment.
 
@@ -70,7 +67,7 @@ Ecole 42 employs a rigorous exam system designed to ensure fairness and uphold h
    Advancing through each level at Ecole 42 requires successfully passing these rigorous exams. This process evaluates not only technical proficiency but also prepares students for professional software development challenges, emphasizing precision and adherence to standards.
 
 
-### **STAFF CHECK**
+### **STAFF CHECK 👮**
 
 Within 42, officials are tasked with monitoring our projects. These individuals randomly review completed projects to assess our understanding. They may open these projects and ask us to explain them thoroughly. 
 
