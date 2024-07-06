@@ -36,7 +36,5 @@ The 42 Moulinette is an automated grading tool used at Ecole 42 to evaluate stud
 ### **EXAM SYSTEM**
 Ecole 42's exam system is very strict. Exams are conducted in a designated exam area on special exam computers. These computers have no internet connection and have minimal software installed; even basic extensions for VSCode, like C extensions, are not available. During the exam, a system called examshell provides a random question based on the difficulty level, which we must solve. After writing our solution, it is tested by an AI called grademe, which is similar to Moulinette but even stricter. To progress through each level, we must pass these exams.
 
-Consistency and Fairness: The Moulinette ensures a consistent and fair evaluation process for all students. By automating much of the grading process, it eliminates biases and human errors, providing an objective assessment of each project.
-
 ### **STAFF CHECK**
 Within 42, there are officials responsible for monitoring our projects. These individuals randomly review previously completed projects to assess our understanding. They open these projects and ask us to explain them. Based on their evaluation, they write a report on our performance. If we fail to demonstrate the required competence, we face severe penalties.
