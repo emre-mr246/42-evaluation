@@ -44,8 +44,7 @@ The Moulinette is an automated grading tool used at Ecole 42 to evaluate student
 
 - **Comprehensive Feedback:** After running tests, the Moulinette provides detailed feedback on your submission. This includes information on detected errors or issues, along with suggestions for improvement. Such feedback is invaluable for learning and enhancing coding skills.
 
-- **Peer Reviews:** In addition to automated testing, the Moulinette integrates peer review processes. Peers offer insights, comments, and scores based on their evaluations, providing a well-rounded assessment of your work.
-
+- **Leak Check:**  This capability ensures that student projects manage memory correctly, without unintended leaks that could degrade performance or stability over time. By analyzing memory usage patterns, Moulinette identifies potential leaks and highlights them in its feedback to students.
 
 ### **EXAM SYSTEM 🖥️**
 
