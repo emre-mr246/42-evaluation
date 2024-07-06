@@ -46,10 +46,13 @@ Ecole 42 employs a rigorous exam system designed to ensure fairness and uphold h
 2. Examshell and Question Format
 	During the exam, a system called examshell presents a random question tailored to the difficulty level of the exam. Students are required to solve this question within a specified timeframe, demonstrating their understanding and problem-solving skills in real-time.
 
-3. Evaluation by grademe
+3. Penalty Period
+	In the 42 exam repository, if a student uploads the wrong code, they are locked out and barred from continuing until the penalty period expires. This underscores the critical need for thorough preparation and effective problem-solving strategies during the initial attempt. Moreover, the penalty period escalates with each subsequent unsuccessful try, highlighting the significance of approaching each attempt thoughtfully and skillfully.
+
+4. Evaluation by grademe
 	Once students complete their solutions, they are evaluated by an AI system known as grademe. Similar to Moulinette but stricter in its assessments, grademe thoroughly tests the correctness, efficiency, and adherence to specifications of each solution. This automated evaluation ensures consistency and objectivity in grading across all exam submissions.
-	
-4. Progression and Requirements
+
+5. Progression and Requirements
 	To advance through each level of their studies at Ecole 42, students must successfully pass these rigorous exams. This process not only assesses their technical proficiency but also prepares them for the challenges of professional software development, where precision and adherence to standards are critical.
 
 ### **STAFF CHECK**
