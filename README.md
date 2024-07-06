@@ -18,20 +18,28 @@
 # 42-evaluation
 
 ### **THE NORM**
-The norm rules at Ecole 42 are a set of guidelines akin to the SOLID principles in software development. These rules are designed to enhance the organization, readability, and maintainability of our projects. They serve as a framework for students to cultivate disciplined coding practices and foster professional-level software craftsmanship.
 
-Adherence to these norms is paramount as even a single violation can lead to the project being deemed unacceptable, potentially resulting in a failing grade. This stringent adherence underscores the importance of clean, structured code that not only meets functional requirements but also adheres to best practices in software engineering.
+The norm rules at Ecole 42 are a set of guidelines akin to the **SOLID principles** in software development. These rules enhance the **organization, readability, and maintainability** of projects, fostering disciplined coding practices and **professional-level software craftsmanship**.
 
-By following the norm rules, students not only ensure their projects meet academic standards but also prepare themselves for real-world software development scenarios where clean, maintainable code is essential for long-term success.
+Adherence to these norms is crucial; even a single violation can render a project **unacceptable**, potentially resulting in a **failing grade**. This stringent adherence emphasizes the importance of **clean, structured code** that not only meets functional requirements but also follows **best practices in software engineering**.
+
+By adhering to the norm rules, students ensure their projects meet **academic standards** and prepare themselves for **real-world software development**, where clean, maintainable code is essential for **long-term success**.
+
 
 ### **PEER TO PEER EVALUATION**
-When we complete a project, we need to get it approved by three of our peers who will evaluate it at different times. During this process, they ask us questions to ensure that we have done the project ourselves. During the evaluation, each function we used in the project and how these functions work behind the scenes are asked about individually. While our program runs and when it terminates, the evaluator checks if there are any memory leaks. The evaluator also checks if our project adheres to the norm rules.
-When evaluating our project, the reviewer follows the guidelines on the evaluation page and tests our project manually or with automated testing tools. If our program crashes for any reason, we fail the project and must retry it later.
-At the end of the evaluation, our peer writes a comment for us. This comment may include our shortcomings, aspects of the project they liked and disliked, and any recommendations they might have. Additionally, our peer gives a score for each section they evaluated.
+
+When completing a project at Ecole 42, it must be approved by three of our peers who evaluate it independently at different times. During this process, they ask questions to ensure the authenticity of our work. Each function used in the project and its underlying workings are scrutinized individually.
+
+Throughout the evaluation, the reviewer monitors our program's execution and checks for memory leaks upon termination. They also assess if our project adheres to the norm rules of Ecole 42.
+
+The evaluation follows specific guidelines outlined on the evaluation page, involving manual testing or automated tools. If our program crashes during evaluation, the project fails, requiring us to retry it later.
+
+At the conclusion of the evaluation, our peers provide feedback in the form of comments. These comments may cover our project's strengths, weaknesses, and recommendations for improvement. Additionally, they assign scores for each evaluated section.
+
 
 ### MOULINETTE "THE GRINDER"
 
-The 42 Moulinette, known as "The Grinder," is an automated grading tool used at Ecole 42 to evaluate student projects. This powerful tool ensures that all submissions meet the school's rigorous standards. Here's an overview of its key features and benefits:
+The Moulinette is an automated grading tool used at Ecole 42 to evaluate student projects. This powerful tool ensures that all submissions meet the school's rigorous standards. Here's an overview of its key features and benefits:
 
 - **Automated Testing:** The Moulinette runs a series of predefined tests on your code to check for correctness, efficiency, and adherence to project specifications. It verifies that your program behaves as expected under various conditions.
 
@@ -46,21 +54,25 @@ The 42 Moulinette, known as "The Grinder," is an automated grading tool used at 
 
 Ecole 42 employs a rigorous exam system designed to ensure fairness and uphold high standards of assessment.
 
-1. **Exam Environment**
-   Exams take place in designated areas using specialized exam computers. These computers are isolated from the internet and have minimal software installed, ensuring a controlled testing environment. For instance, even basic extensions for editors like VSCode, including C extensions, are not available during exams. This restriction aims to maintain the integrity and security of the testing process.
+1. **Exam Environment:**
+   Exams are conducted in designated areas using specialized computers isolated from the internet and with minimal software installed. For example, even basic editor extensions like VSCode, including C extensions, are disabled during exams. This setup ensures a controlled testing environment aimed at maintaining the integrity and security of the process.
 
-2. **Examshell and Question Format**
-   During the exam, a system called examshell presents a random question tailored to the difficulty level of the exam. Students are required to solve this question within a specified timeframe, demonstrating their understanding and problem-solving skills in real-time.
+2. **Examshell and Question Format:**
+   During exams, the system known as examshell presents a randomly generated question tailored to the exam's difficulty level. Students must solve this question within a specified timeframe, demonstrating their real-time understanding and problem-solving skills.
 
-3. **Penalty Period**
-   In the 42 exam repository, if a student uploads incorrect code, they are locked out and unable to continue until the penalty period expires. This underscores the critical need for thorough preparation and effective problem-solving strategies during the initial attempt. Moreover, the penalty period escalates with each subsequent unsuccessful try, highlighting the significance of approaching each attempt thoughtfully and skillfully.
+3. **Penalty Period:**
+   In the 42 exam repository, uploading incorrect code results in a lockout until the penalty period expires. This underscores the importance of thorough preparation and effective problem-solving strategies from the outset. Moreover, the penalty period increases with each subsequent unsuccessful attempt, emphasizing the need for thoughtful and skillful approach to each try.
 
-4. **Evaluation by grademe**
-   Once students complete their solutions, they are evaluated by an AI system known as grademe. Similar to Moulinette but stricter in its assessments, grademe thoroughly tests the correctness, efficiency, and adherence to specifications of each solution. This automated evaluation ensures consistency and objectivity in grading across all exam submissions.
+4. **Evaluation by grademe:**
+   After completing their solutions, students' work is evaluated by grademe, an AI system similar to Moulinette but with stricter assessments. grademe rigorously tests correctness, efficiency, and adherence to project specifications, ensuring consistent and objective grading across all submissions.
 
-5. **Progression and Requirements**
-   To advance through each level of their studies at Ecole 42, students must successfully pass these rigorous exams. This process not only assesses their technical proficiency but also prepares them for the challenges of professional software development, where precision and adherence to standards are critical.
+5. **Progression and Requirements:**
+   Advancing through each level at Ecole 42 requires successfully passing these rigorous exams. This process evaluates not only technical proficiency but also prepares students for professional software development challenges, emphasizing precision and adherence to standards.
 
 
 ### **STAFF CHECK**
-Within 42, there are officials responsible for monitoring our projects. These individuals randomly review previously completed projects to assess our understanding. They open these projects and ask us to explain them. Based on their evaluation, they write a report on our performance. If we fail to demonstrate the required competence, we face severe penalties.
+
+Within 42, officials are tasked with monitoring our projects. These individuals randomly review completed projects to assess our understanding. They may open these projects and ask us to explain them thoroughly. 
+
+Based on their evaluation, they generate a performance report. Failing to demonstrate the required competence can lead to severe penalties.
+
