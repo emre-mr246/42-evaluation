@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="img/evaluation.png" alt="Logo" width="150" height="150">
   <h2>42 EVALUATION SYSTEM</h2>
@@ -38,24 +39,18 @@ The 42 Moulinette is an automated grading tool used at Ecole 42 to evaluate stud
   5. Peer Reviews: In addition to automated testing, the Moulinette integrates peer review processes. Your peers can provide additional insights, comments, and scores based on their evaluations, ensuring a well-rounded assessment of your work.
 
 ### **EXAM SYSTEM**
-Ecole 42 Exam System
-
 Ecole 42 employs a rigorous exam system designed to ensure fairness and uphold high standards of assessment.
-Exam Environment
+1. Exam Environment
+	Exams take place in designated areas using specialized exam computers. These computers are isolated from the internet and have minimal software installed, ensuring a controlled testing environment. For instance, even basic extensions for editors like VSCode, including C extensions, are not available during exams. This restriction aims to maintain the integrity and security of the testing process.
 
-Exams take place in designated areas using specialized exam computers. These computers are isolated from the internet and have minimal software installed, ensuring a controlled testing environment. For instance, even basic extensions for editors like VSCode, including C extensions, are not available during exams. This restriction aims to maintain the integrity and security of the testing process.
-Examshell and Question Format
+2. Examshell and Question Format
+	During the exam, a system called examshell presents a random question tailored to the difficulty level of the exam. Students are required to solve this question within a specified timeframe, demonstrating their understanding and problem-solving skills in real-time.
 
-During the exam, a system called examshell presents a random question tailored to the difficulty level of the exam. Students are required to solve this question within a specified timeframe, demonstrating their understanding and problem-solving skills in real-time.
-Evaluation by grademe
-
-Once students complete their solutions, they are evaluated by an AI system known as grademe. Similar to Moulinette but stricter in its assessments, grademe thoroughly tests the correctness, efficiency, and adherence to specifications of each solution. This automated evaluation ensures consistency and objectivity in grading across all exam submissions.
-Progression and Requirements
-
-To advance through each level of their studies at Ecole 42, students must successfully pass these rigorous exams. This process not only assesses their technical proficiency but also prepares them for the challenges of professional software development, where precision and adherence to standards are critical.
-Conclusion
-
-The stringent exam system at Ecole 42 underscores its commitment to academic excellence and prepares students for real-world applications of their skills. By navigating these challenges, students develop resilience, problem-solving abilities, and a deep understanding of software engineering principles.
+3. Evaluation by grademe
+	Once students complete their solutions, they are evaluated by an AI system known as grademe. Similar to Moulinette but stricter in its assessments, grademe thoroughly tests the correctness, efficiency, and adherence to specifications of each solution. This automated evaluation ensures consistency and objectivity in grading across all exam submissions.
+	
+4. Progression and Requirements
+	To advance through each level of their studies at Ecole 42, students must successfully pass these rigorous exams. This process not only assesses their technical proficiency but also prepares them for the challenges of professional software development, where precision and adherence to standards are critical.
 
 ### **STAFF CHECK**
 Within 42, there are officials responsible for monitoring our projects. These individuals randomly review previously completed projects to assess our understanding. They open these projects and ask us to explain them. Based on their evaluation, they write a report on our performance. If we fail to demonstrate the required competence, we face severe penalties.
