@@ -34,7 +34,7 @@ The evaluation follows specific guidelines outlined on the evaluation page, invo
 At the conclusion of the evaluation, our peers provide feedback in the form of comments. These comments may cover our project's strengths, weaknesses, and recommendations for improvement. Additionally, they assign scores for each evaluated section.
 
 
-### MOULINETTE "THE GRINDER 💢"
+### MOULINETTE "THE GRINDER" 💢
 
 The Moulinette is an automated grading tool used at Ecole 42 to evaluate student projects. This powerful tool ensures that all submissions meet the school's rigorous standards. Here's an overview of its key features and benefits:
 
