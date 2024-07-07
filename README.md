@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="img/evaluation.png" alt="Logo" width="150" height="150">
-  <h2>ECOLE 42 EVALUATION SYSTEM</h2>
+  <h2>ECOLE 42/42 ISTANBUL EVALUATION SYSTEM</h2>
     <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
     <a href="https://intra.42.fr/"><img src="https://img.shields.io/badge/42-INTRA-blue?style=for-the-badge"/></a>
     <a href="https://github.com/emre-mr246/42-evaluation"><img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
