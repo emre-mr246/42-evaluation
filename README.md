@@ -74,4 +74,4 @@ Based on their evaluation, they generate a performance report. Failing to demons
 
 ### **GODFATHER/GODCHILD 🎩**
 
-Experienced students have the option to assist specific students. Here, the experienced student is referred to as the 'father' and the less experienced one as the 'child'. The father can review their child's project before evaluation or assist them during the project development process.
+Experienced students have the option to assist specific students. Here, the experienced student is referred to as the 'godfather' and the less experienced one as the 'godchild'. The father can review their child's project before evaluation or assist them during the project development process.
